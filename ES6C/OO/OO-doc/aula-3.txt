@@ -1,0 +1,1 @@
+Node list não tem funções normais de um array 

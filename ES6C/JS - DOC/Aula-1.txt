@@ -1,0 +1,9 @@
+->Liguagem Script: Real time tempo de execução , Multiplataforma
+
+->Client Side:executado do lado Cliente (usuário)
+
+-> Interação Html
+
+->DOM (Document objet model): Arvore de elementos
+
+ 

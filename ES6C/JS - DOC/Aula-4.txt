@@ -1,0 +1,25 @@
+Tipo de dados em js
+
+->number
+
+->string
+
+->boolean
+
+->null
+
+->undefined
+ps:variavel definida porem não setada
+
+->symbol
+ps:valores unicos
+
+->object
+
+->function
+ps:tambem obj porem permite que um obj seja chamado
+
+->array
+ps:OBJ com relação em seus filhos, organiza cada item em um índice com um dado respectivo a posição   
+
+-JS não tem um modificador de acesso

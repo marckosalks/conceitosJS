@@ -1,0 +1,30 @@
+Javascrip podemos manipular qualquer elemento 
+
+ex:
+
+html: <h3 id="saudacao">Obrigado por clicar</h3>
+
+js:console.log(document.getElementById('saudação'))
+
+retorno 
+
+<h3 id="saudacao">Obrigado por clicar</h3>
+
+
+
+usamos o this para reutilizar as mesmas funções em elementos diferentes 
+
+eventos:
+
+onclick = dispara ao clicar no elemento  
+
+onchange = dispara quando há mudança, usado mais em combo de opções  
+
+onload =  dispara ao recarregar a pagina
+
+onmouseover = dispara quando o mouse passa pelo elemento 
+
+onmouseout=  dispara quando o mouse sai do elemento 
+
+
+ 

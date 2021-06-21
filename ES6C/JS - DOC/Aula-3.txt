@@ -1,0 +1,42 @@
+Linguagem  de tipage fraca   dinâmica 
+ps:Não há verificação, usar operadores com strings
+ps:trocar o tipo de dado
+
+Typescrip == superset
+
+Função de 1° classe e ordem maior:
+
+Closure: "escopo lexo" capacidade da lembra onde a variável foi criada
+ps = {
+
+	escopo: "global",
+
+	escopo: "função",
+
+	escopo: "bloco-le-const",
+}
+
+Currying  == Transformar um função de N parametros e transformar em apenas uma  função que recebe um parâmetro  que retorna uma nova funções
+
+Hoisting == levantar ou suspender algo
+ps:variaveis:apenas eleva a criação da variavel e não atribuição e função  elevada ao topo como um todo 
+
+-Boa prática: declarar a função antes de usar 
+
+Imultabilidade == Variavel nunca vai mudar ! caso necessário adcionar uma nova variável
+
+ps:Sempre passar arrey ou obj como argumento para não haver mudança 
+
+ps2:escopo de bloco: tudo está dentro das  { } , escopo  de função: Tudo o que está dentro da função, escopo global : tudo que não é escopo de função e de bloco 
+
+-escopo global é representado pelo window
+
+-var não entende escopo de bloco 
+
+Variaveis ===
+
+
+
+
+
+  

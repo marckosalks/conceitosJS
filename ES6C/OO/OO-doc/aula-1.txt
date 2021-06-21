@@ -1,0 +1,42 @@
+->Herança:
+
+ - Baseada em protótipos 
+
+-Prototype: armazena as definições da  obj === _proto_
+
+-Constructor
+
+  _proto_ ->   prototype -> constructor 
+
+- aponta para proto type de string
+//não retorna objeto criado  
+
+call: contesto é enviado para a função construtora 
+
+Boa prática {adcionar propriedades unicas no obj não na classe , fando a alteração do prototype  somente no obj ]
+
+podemos fazer o que quisermos com o proto 
+ 	
+->Classe:
+
+Simplificação da herança de prototipos
+
+palavra chave class
+
+->Modificadores de acesso: não tem no JS 
+
+privado e publico
+
+get e set para acessar propriedades privadas
+
+existe no node referenciado com uma cerquilha 
+
+->Encapsulamento 
+
+-Ocutar detalhes do funcionamento interno 
+
+->Static:
+
+Acessa métodos /atributos sem instanciar 
+
+

@@ -1,0 +1,52 @@
+->Design Patterns:
+
+-Definições
+
+Soluções generalistas para problemas recorrentes  durante o desenvolvimento  de um software .É apenas uma definição de alto nivel  de como um problema pode ser solucionado !	 
+
+-1978
+
+-Christopher Alexander Sara ishkawa  e Murray Siversten 
+
+-253 tips problemas desafios
+
+->Formato de um patterns?
+-nome, Exemplo, Contexto, Problema, Solução
+
+-1987
+
+5 padrões de projetos
+
+-Tipos
+
+Criação 
+
+Abstraem e/ou adiam o processo criação dos obj 
+
+
+Estruturais 
+
+Preocupam com a forma como classes e obj são compostos para formar estruturas maiores 
+
+
+ comportamentais
+
+se concentram nos algoritimos atribuiçãoes de responsabilidades entre os objetos 
+descreve classes padroes e obj e sua comunicação  
+
+
+
+-Patterns mais utilizados
+
+Todos as funções que retornam um obuj sem a necessidade do new 
+
+
+-Singleton:
+
++Criar uma unica instância de uma função construtora  e retorna-lá sempre que necessário   
+
+-Decorator
+
++Recebe função por parâmentro e estende seus comportamentos sem modificá-la explicitamente
+
+TypeScript   

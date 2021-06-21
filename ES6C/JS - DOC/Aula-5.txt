@@ -1,0 +1,67 @@
+O this dentro de uma arrow function se refer a ela mesma, dentro do seu escopo 
+
+diferença da arrow para fn 
+
+ps:arrow o this referencia seu escopo
+
+ps1:Fn o this é a referência de um  obj
+
+
+imultabilidade:filter map e  reducer não alteram as propriedades do objeto 
+
+encaderar as execuções 
+
+
+Operadosres
+
+Operador binários{
+
+operado1 operador operado2
+
+1 + 2
+}
+
+Operador unitário{
+operador1 operador
+operador operado1
+
+1++
+++1
+
+}
+
+
+->Aritiméticos
+
+molde (modulo)
+incremento (++)  e Decremento(--)
+Negção (-) e Adição(+)
+Exponenciação (**)
+Agrupamento()
+
+->Atribuição
+
+
+
+->Comparação
+(igual ==)
+===
+!=      
+
+->Condicionais
+if else
+do while
+for in
+
+continue: pular uma condição (if)
+
+break: sair da condicional 
+
+while ele apenas executa se for verdade, do while ele executa uma vez caso seja falso
+
+
+->Lógicos
+
+->Spread 
+
+
